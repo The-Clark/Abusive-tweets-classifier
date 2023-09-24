@@ -1,4 +1,6 @@
 # Training & deploying BERTweet-based NLP model for tweet classification
+
+Note: This model is trained on English tweets alone
 Contents
    - The problem
    - Creating virtual environment, Installing and importing the necessary libraries
